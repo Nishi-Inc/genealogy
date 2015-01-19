@@ -7,7 +7,7 @@
     <groupId>com.nishionline</groupId>
     <artifactId>genealogy</artifactId>
     <version>0.1.0</version>
-    <description></description>
+    <description>Yet Another Family-Tree Software (YAFTS)</description>
     <url>http://nishi-inc.github.io/genealogy/</url>
     <licenses>
         <license>
