@@ -16,6 +16,7 @@ import java.util.ArrayList;
 /**
  * @author Alok
  * @since 26-07-2014
+ * @version 0.1.0
  */
 @Provider
 public class CustomSubjectCreator implements SubjectCreator {

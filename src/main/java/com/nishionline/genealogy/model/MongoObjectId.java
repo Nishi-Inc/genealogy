@@ -5,6 +5,7 @@ import org.bson.types.ObjectId;
 /**
  * @author Alok
  * @since 03-11-2014
+ * @version 0.1.0
  */
 public class MongoObjectId extends ObjectId {
     private String $oid;

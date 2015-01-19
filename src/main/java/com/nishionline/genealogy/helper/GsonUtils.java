@@ -12,6 +12,7 @@ import java.lang.reflect.Type;
 /**
  * @author Alok
  * @since 03-11-2014
+ * @version 0.1.0
  */
 public class GsonUtils {
     public static Gson gson;

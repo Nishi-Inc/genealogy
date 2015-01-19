@@ -9,8 +9,10 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.MultivaluedMap;
 
 /**
+ * This is an interface to the outer world hence maintaining version here is most important
  * @author Alok
  * @since 03-11-2014
+ * @version 0.1.0
  */
 @WebService
 @Path("/user")

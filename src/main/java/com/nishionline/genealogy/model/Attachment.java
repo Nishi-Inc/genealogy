@@ -14,6 +14,5 @@ import java.io.File;
 @Setter
 public class Attachment extends PersistentObject {
     private File file;
-    private String displayName;
 
 }

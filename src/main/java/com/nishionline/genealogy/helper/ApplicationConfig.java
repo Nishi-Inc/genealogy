@@ -13,6 +13,7 @@ import java.lang.reflect.Modifier;
 /**
  * @author Alok
  * @since 04-07-2014
+ * @version 0.1.0
  */
 @Getter
 @Component("ApplicationConfig")
@@ -36,7 +37,7 @@ public final class ApplicationConfig {
     private String mailUsername;
     private String mailPassword;
     private String mailFrom;
-    @Optional("Team, Innosols Infocom")
+    @Optional("Team, Nishi Inc")
     private String mailFromName;
     @Optional("[Vendor Bridge]")
     private String mailSubjectPrefix;

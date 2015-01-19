@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * @author Alok
  * @since 03-11-2014
+ * @version 0.1.0
  */
 @Component("ApplicationInitializer")
 public class ApplicationInitializer implements InitializingBean {

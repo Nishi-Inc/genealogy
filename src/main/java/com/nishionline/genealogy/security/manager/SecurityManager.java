@@ -10,6 +10,7 @@ import org.apache.cxf.rs.security.oauth2.common.Client;
 /**
  * @author Alok
  * @since 15-07-2014
+ * @version 0.1.0
  */
 public interface SecurityManager {
 

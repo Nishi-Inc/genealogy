@@ -10,6 +10,7 @@ import java.lang.reflect.Field;
 /**
  * @author Alok
  * @since 20-08-2014
+ * @version 0.1.0
  */
 public class WSError implements Serializable {
     private String errorMessage;

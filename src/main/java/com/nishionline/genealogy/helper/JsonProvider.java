@@ -26,6 +26,7 @@ import java.util.Iterator;
 /**
  * @author Alok
  * @since 01-07-2014
+ * @version 0.1.0
  */
 @Provider
 public class JsonProvider implements MessageBodyReader<Object>, MessageBodyWriter<Object> {

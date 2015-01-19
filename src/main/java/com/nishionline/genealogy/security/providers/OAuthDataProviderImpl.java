@@ -17,6 +17,7 @@ import java.util.List;
 /**
  * @author Alok
  * @since 14-07-2014
+ * @version 0.1.0
  */
 @Provider
 @DependsOn({"SecurityManager", "ApplicationConfig"})

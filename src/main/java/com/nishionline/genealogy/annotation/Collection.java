@@ -10,6 +10,7 @@ import java.lang.annotation.Target;
 /**
  * @author Alok
  * @since 07-09-2014
+ * @version 0.1.0
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

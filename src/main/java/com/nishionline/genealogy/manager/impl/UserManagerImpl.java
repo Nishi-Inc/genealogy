@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  * @since 03-11-2014
  */
 @Service("UserManager")
-public class UserManagerImpl implements UserManager {
+public class UserManagerImpl extends GenealogyManagerSupport implements UserManager {
     @Override
     public User getUserByUsername(String username) {
         return null;

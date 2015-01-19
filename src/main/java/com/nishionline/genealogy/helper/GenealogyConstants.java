@@ -3,6 +3,7 @@ package com.nishionline.genealogy.helper;
 /**
  * @author Alok
  * @since 03-11-2014
+ * @version 0.1.0
  */
 public final class GenealogyConstants {
 

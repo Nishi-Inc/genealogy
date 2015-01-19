@@ -1,6 +1,6 @@
 package com.nishionline.genealogy.security.model;
 
-import in.co.innosols.model.PersistentObject;
+import com.nishionline.genealogy.model.PersistentObject;
 import lombok.Getter;
 import lombok.Setter;
 import org.apache.cxf.rs.security.oauth2.common.ServerAccessToken;
@@ -8,6 +8,7 @@ import org.apache.cxf.rs.security.oauth2.common.ServerAccessToken;
 /**
  * @author Alok
  * @since 14-07-2014
+ * @version 0.1.0
  */
 @Getter
 @Setter

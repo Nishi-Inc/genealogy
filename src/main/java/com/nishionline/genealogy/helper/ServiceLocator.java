@@ -7,8 +7,9 @@ import org.springframework.context.ApplicationContextAware;
 import java.util.Map;
 
 /**
- * @author nishi
+ * @author Alok
  * @since 4/22/14
+ * @version 0.1.0
  */
 public class ServiceLocator implements ApplicationContextAware {
 
